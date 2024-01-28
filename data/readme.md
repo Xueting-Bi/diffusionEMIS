@@ -1,1 +1,1 @@
-The folder deposit the data.
+The folder deposits the data.
