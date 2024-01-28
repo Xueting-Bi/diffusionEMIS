@@ -1,1 +1,1 @@
-The folder store the training logs.
+The folder saves the training logs.
