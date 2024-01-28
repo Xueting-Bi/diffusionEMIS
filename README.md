@@ -27,6 +27,8 @@ Our model only depends on the following commonly used packages, all of which can
 | scipy        | *not specified* (we used 1.6.2)  |
 | scikit-learn | *not specified* (we used 0.24.2) |
 
+## Data Download
+First, please click on the quark cloud link to download the dataset we use.[[Link](https://pan.quark.cn/s/7870a03e9c21)] .
 
 ## Training
 
